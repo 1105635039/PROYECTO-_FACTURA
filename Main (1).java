@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 /*
  * Facilito no sierto
- *  @Autores: Sebastian, Emilio, Jostin
+ *  @Autores: Sebastian Orellana, Emilio Galvez, Jostin Vasuqez, Gyna Yupangui, Steven Narváez, Yahir Velásquez 
  */
 public class Main {
     private static float IVA = 0.15f;

@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 /*
  * Facilito no sierto
- *  @Autores: Sebastian Orellana, Emilio Galvez, Jostin Vasuqez.
+ *  @Autores: Sebastian Orellana, Emilio Galvez, Jostin Vasuqez,Gyna Yupangui.
  */
 public class Main {
     private static float IVA = 0.15f;
